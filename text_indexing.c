@@ -6,7 +6,6 @@
 *
 * NOTES :
 *       Compile: gcc -o textidx text_indexing.c
-*       Run Ex: ./textidx
 *       Run Ex: ./textidx < data1.txt
 *
 *       Copyright 2017, Jacob Wilkins.  All rights reserved.
